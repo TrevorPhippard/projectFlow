@@ -1,6 +1,6 @@
 # ProjectFlow 🚀
 
-A production-ready **Project Management Web Application** built with Angular 17, Spring Boot 3, and PostgreSQL. Features a Jira/Trello-inspired Kanban board with drag-and-drop, JWT authentication, OAuth2 (Google), role-based access control, and a clean, modern UI.
+A production-ready **Project Management Web Application** built with Angular 17, Spring Boot 3, and PostgreSQL. Features a Jira/Trello-inspired Kanban board with drag-and-drop, JWT authentication, OAuth2 (Google), role-based access control, and a clean, modern UI. I am disgusted with how easy this was with AI
 
 ---
 
